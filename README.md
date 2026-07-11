@@ -1,10 +1,9 @@
 ### Hi, I'm Alexandr 👋
 
-Data Engineer · AI Engineer · Data Scientist — final-year Data Science student at the University of Minho, based in Braga, Portugal.
+Data Engineer · AI Engineer · Data Scientist based in Braga, Portugal.
 
 I build end-to-end data platforms and AI-powered applications: lakehouse architectures, real-time pipelines, dimensional models, and RAG/Text-to-SQL systems over structured and unstructured data.
 
-- 🎓 B.Sc. Data Science, Universidade do Minho (2022–2025)
 - 🏢 Former Data Management & Quality intern @ Bosch (QMM-D team)
 - 🌍 Portuguese (native) · Russian (native) · English (professional working proficiency)
 - 📫 [LinkedIn](https://www.linkedin.com/in/alexandr-tchikoulaev-0a790b272) · alexandrvtchikoulaev@gmail.com
