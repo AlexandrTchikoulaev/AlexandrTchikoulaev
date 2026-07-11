@@ -30,8 +30,8 @@ GenAI platform for natural-language exploration of structured and unstructured d
 End-to-end Medallion lakehouse on the Olist e-commerce dataset — Kafka + Debezium CDC ingestion, Apache Iceberg on MinIO, Spark processing, star-schema serving via Trino, and Spark MLlib demand forecasting orchestrated with Airflow.
 `Spark` `Kafka` `Debezium` `Iceberg` `Trino` `Airflow` `MLflow`
 
-**[Streaming & Media Analytics Platform](https://github.com/AlexandrTchikoulaev/streaming-media-analytics-platform)**
-Kimball star-schema lakehouse for streaming/media KPIs — PySpark Bronze/Silver/Gold on HDFS, Hive Metastore registration, Trino JDBC serving, and Tableau dashboards.
+**[Audiovisual Analytics Platform](https://github.com/AlexandrTchikoulaev/audiovisual-analytics-platform)**
+Kimball star-schema lakehouse for the film industry — PySpark Bronze/Silver/Gold on HDFS, Hive Metastore registration, Trino JDBC serving, and Tableau dashboards across 5 datasets (movies, streaming catalogs, actor filmographies, and the Academy Awards).
 `PySpark` `HDFS` `Hive Metastore` `Trino` `Tableau`
 
 **[GCP Vagrant Data Pipeline](https://github.com/AlexandrTchikoulaev/gcp-vagrant-data-pipeline)**
