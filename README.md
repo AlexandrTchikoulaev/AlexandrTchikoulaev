@@ -38,7 +38,7 @@ Kimball star-schema lakehouse for streaming/media KPIs — PySpark Bronze/Silver
 Infrastructure-as-code pipeline that provisions an ephemeral GCE VM via Vagrant, ingests a retail dataset into Google Cloud Storage as Parquet using DuckDB, and runs a hybrid download-query-upload analysis stage.
 `Vagrant` `GCP` `Google Cloud Storage` `DuckDB` `Docker`
 
-**[Sistemas Inteligentes — SNS24 Triage System](https://github.com/AlexandrTchikoulaev/Sistemas-Inteligentes)**
+**[Clinical Triage MYCIN + RAG System](https://github.com/AlexandrTchikoulaev/clinical-triage-mycin-rag-system)**
 Clinical triage system combining a MYCIN-style inference engine (SWI-Prolog), ML-generated rules (scikit-learn), and a RAG chatbot powered by Ollama.
 `Prolog` `MYCIN` `scikit-learn` `RAG` `Ollama`
 
