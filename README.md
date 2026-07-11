@@ -4,9 +4,19 @@ Data Engineer · AI Engineer · Data Scientist based in Braga, Portugal.
 
 I build end-to-end data platforms and AI-powered applications: lakehouse architectures, real-time pipelines, dimensional models, and RAG/Text-to-SQL systems over structured and unstructured data.
 
-- 🏢 Former Data Management & Quality intern @ Bosch (QMM-D team)
 - 🌍 Portuguese (native) · Russian (native) · English (professional working proficiency)
 - 📫 [LinkedIn](https://www.linkedin.com/in/alexandr-tchikoulaev-0a790b272) · alexandrvtchikoulaev@gmail.com
+
+---
+
+### Experience
+
+**Data Management & Quality Intern — Bosch** · Jun 2024 – Aug 2024 · Braga, Portugal
+Embedded in the QMM-D (Data Management & Quality) team, contributing to data integration, migration, and visualisation initiatives in an enterprise environment.
+- Built data pipelines with KNIME and MySQL to extract, transform, and load production data.
+- Contributed to a data migration initiative targeting an OutSystems web application platform.
+- Developed interactive data exploration and reporting interfaces used by business teams.
+- Applied data quality and governance practices, including validation and profiling.
 
 ---
 
